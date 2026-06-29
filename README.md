@@ -61,6 +61,10 @@ xdpyinfo | grep 'vendor'
 
 It says XLibre? Congratulations!
 
+### Support for the Legacy Proprietary Nvidia Drivers
+
+Besides support for AMD, Intel, newer Nvidia, and many other drivers, the XLibre Xserver 25.1 series also added support for the legacy proprietary Nvidia drivers v340, v390, and v470. It is enabled in the [xlibre-xserver](https://github.com/xlibre-manjaro/xlibre-xserver) package by default. Please see the [NVIDIA - ArchWiki](https://wiki.archlinux.org/title/NVIDIA) page on how to install and configure the legacy proprietary Nvidia drivers. You can also find more information about the XLibre Nvidia support in the [XLibre XServer 25.1 changelog](https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.1-Changes).
+
 ## Getting in Contact
 
 Please report any enhancement requests or issues with this repository at [Issues · xlibre-manjaro/xlibre-manjaro](https://github.com/xlibre-manjaro/xlibre-manjaro/issues). If you have a specific issue, please see the [list of package repositories](https://github.com/orgs/xlibre-manjaro/repositories?q=topic%3Apackage) and report it there. In case you need help, want to report success or talk about other aspects, please also check the official XLibre channels.
