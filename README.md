@@ -4,7 +4,7 @@
 
 This third-party repository provides [XLibre](https://xlibre.net) x86_64 binary  packages for [Manjaro Linux](https://manjaro.org). XLibre is the community-managed display server for the [X Window System Protocol Version 11 (Wikipedia)](https://en.wikipedia.org/wiki/X_Window_System_core_protocol), in short, X11. You can learn more about XLibre at [xlibre.net](https://xlibre.net/).
 
-<!-- For XLibre packages for other Arch Linux-based distributions, please see [xlibre-arch.github.io](https://xlibre-arch.github.io). -->
+For XLibre packages for other Arch Linux-based distributions, please see [xlibre-arch.github.io](https://xlibre-arch.github.io).
 
 ## Installing XLibre Manually
 
